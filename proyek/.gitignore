@@ -1,0 +1,4 @@
+/config/database.properties
+/build/
+/dist/
+/nbproject/private/
